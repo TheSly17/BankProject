@@ -1,0 +1,10 @@
+Daniel A deposited $1000.0 into Checking-1078. Updated Balance for Checking-1078: $5857.5599999999995
+Daniel A deposited $1000.0 into Checking-1078. Updated Balance for Checking-1078: $6857.5599999999995
+Daniel A paid $1000.0 from Checking-1078 to Derek Aguirre (Checking-1048). Daniel A's New Balance for Checking-1078: $3857.5599999999995
+Daniel A paid $1000.0 from Checking-1078 to Derek Aguirre (Checking-1048). Daniel A's New Balance for Checking-1078: $2857.5599999999995
+Daniel A transferred $1000.0 from A-1078 to B-2078. Daniel A's Balance for A-1078: $1857.5599999999995. Daniel A's Balance for B-2078: $4364.79
+Daniel A transferred $1000.0 from A-1078 to A-1078. Daniel A's Balance for A-1078: $2857.5599999999995. Daniel A's Balance for A-1078: $2857.5599999999995
+Daniel A transferred $1000.0 from A-1078 to B-2078. Daniel A's Balance for A-1078: $1857.5599999999995. Daniel A's Balance for B-2078: $4364.79
+Daniel A made a balance inquiry on Checking-1078. Daniel A's Balance for Checking-1078: $1857.5599999999995
+Daniel A deposited $49999.0 into Checking-1078. Updated Balance for Checking-1078: $51856.56
+Daniel A paid $1000.0 from Checking-1078 to Derek Aguirre (Checking-1048). Daniel A's New Balance for Checking-1078: $50856.56
